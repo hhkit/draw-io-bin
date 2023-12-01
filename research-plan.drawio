@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T13:46:26.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="oCLqTWIcmh5cl_40Fz-f" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T13:48:10.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Z2PwllKG8P7ox6v2gU3S" version="22.1.5" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1440" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -87,9 +87,6 @@
         </mxCell>
         <mxCell id="1cEkrv7Ao01gGzmioIyL-428" value="" style="strokeColor=#DEEDFF" vertex="1" parent="1">
           <mxGeometry x="946.500000000002" y="380.0000000000002" width="20" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="1cEkrv7Ao01gGzmioIyL-417" value="" style="strokeColor=#DEEDFF" vertex="1" parent="1">
-          <mxGeometry x="976.500000000002" y="530.0000000000002" width="20" height="520" as="geometry" />
         </mxCell>
         <mxCell id="1cEkrv7Ao01gGzmioIyL-418" value="" style="strokeColor=#DEEDFF" vertex="1" parent="1">
           <mxGeometry x="846.500000000002" y="380.0000000000002" width="20" height="520" as="geometry" />
@@ -490,7 +487,7 @@
         <mxCell id="146" value="6 months" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="446.50000000000273" y="620.0000000000023" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="147" value="26." style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="147" value="26.04" style="strokeColor=#DEEDFF" parent="1" vertex="1">
           <mxGeometry x="526.500000000003" y="620.0000000000023" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="148" value="26.10" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -571,7 +568,7 @@
         <mxCell id="173" value="27.10.30" style="strokeColor=#DEEDFF;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="606.500000000003" y="780.0000000000032" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="174" value="23" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="174" value="23" style="strokeColor=#DEEDFF;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="86.50000000000139" y="820.000000000003" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="175" value="" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -1024,13 +1021,13 @@
         <mxCell id="1cEkrv7Ao01gGzmioIyL-558" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
           <mxGeometry x="1060" y="640" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1cEkrv7Ao01gGzmioIyL-559" value="Topic 2: Optimizing Compiler for Heterogeneous Architectures" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" vertex="1" parent="1">
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-559" value="Topic 3: Optimizing Compiler for Heterogeneous Architectures" style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" vertex="1" parent="1">
           <mxGeometry x="126.50000000000026" y="820" width="319.9999999999998" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cEkrv7Ao01gGzmioIyL-560" value="1 Year" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" vertex="1" parent="1">
           <mxGeometry x="446.50000000000136" y="820.000000000002" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1cEkrv7Ao01gGzmioIyL-561" value="26.01" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" vertex="1" parent="1">
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-561" value="27.01" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" vertex="1" parent="1">
           <mxGeometry x="526.5000000000016" y="820.000000000002" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1cEkrv7Ao01gGzmioIyL-562" value="27.10.30" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" vertex="1" parent="1">
@@ -1047,6 +1044,33 @@
         </mxCell>
         <mxCell id="1cEkrv7Ao01gGzmioIyL-566" value="25.12" style="strokeColor=#DEEDFF" vertex="1" parent="1">
           <mxGeometry x="606.500000000003" y="840.0000000000032" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-567" value="Data collection &amp; cleaning for cost model" style="align=left;strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="126.50000000000136" y="860.000000000003" width="319.99999999999864" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-568" value="3 Months" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="446.5000000000032" y="860.000000000003" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-569" value="26.01" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="526.5000000000034" y="860.000000000003" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-570" value="26.04" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="606.500000000003" y="860.0000000000032" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-571" value="Paper Preparation" style="align=left;strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="126.50000000000136" y="880.000000000003" width="319.99999999999864" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-572" value="3 Months" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="446.5000000000032" y="880.000000000003" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-573" value="26.01" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="526.5000000000034" y="880.000000000003" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-574" value="26.04" style="strokeColor=#DEEDFF" vertex="1" parent="1">
+          <mxGeometry x="606.500000000003" y="880.0000000000032" width="80.00000000000028" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1cEkrv7Ao01gGzmioIyL-575" value="" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=none;strokeWidth=2;opacity=50" vertex="1" parent="1">
+          <mxGeometry x="985" y="620" width="135" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
