@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T23:35:57.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="fn4wxXQBJUc-ToDwbkfS" version="22.1.16" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-01-10T23:38:02.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="AjGdkYV9nKhOKS0yBKAF" version="22.1.16" type="github" pages="11">
   <diagram name="Page-1" id="dNXU90C2GVVFEEsE79y2">
     <mxGraphModel dx="1628" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2080,16 +2080,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="295" width="545" height="285" as="geometry" />
+        </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-1" target="PVolOa2m4Xdv15_TMvfd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-1" value="CUDA file" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="180" y="215" width="90" height="30" as="geometry" />
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-1" value="CUDA file" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="215" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-3" target="PVolOa2m4Xdv15_TMvfd-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-3" value="Canonicalized LLVM IR" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-3" value="Canonicalized LLVM IR" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="170" y="315" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-4" target="PVolOa2m4Xdv15_TMvfd-11">
@@ -2104,7 +2107,7 @@
         <mxCell id="PVolOa2m4Xdv15_TMvfd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-11" target="PVolOa2m4Xdv15_TMvfd-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-5" value="&lt;div&gt;`\mathcal{D}, \mathcal{S}, \mathcal{T}, \mathcal{A}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-5" value="&lt;div&gt;`\mathcal{D}, \mathcal{S}, \mathcal{T}, \mathcal{A}`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="550" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-7" target="PVolOa2m4Xdv15_TMvfd-14">
@@ -2130,7 +2133,7 @@
         <mxCell id="PVolOa2m4Xdv15_TMvfd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-2" target="PVolOa2m4Xdv15_TMvfd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-9" value="clang CUDA frontend" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-9" value="clang CUDA frontend" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-10" target="PVolOa2m4Xdv15_TMvfd-3">
@@ -2141,23 +2144,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-10" value="Canonicalization passes" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-10" value="Canonicalization passes" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="530" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-11" target="PVolOa2m4Xdv15_TMvfd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-12" value="&lt;div&gt;`\beta, \mathcal{B}`&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-12" value="&lt;div&gt;`\beta, \mathcal{B}`&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-14" value="Error: barrier divergence" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="155" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="155" y="540" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-15" value="Error: Data race!" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="530" width="105" height="30" as="geometry" />
+          <mxGeometry x="417.5" y="540" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-18" value="&lt;b&gt;Clear&lt;/b&gt;!" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006600;" vertex="1" parent="1">
-          <mxGeometry x="560" y="445" width="90" height="30" as="geometry" />
+          <mxGeometry x="570" y="445" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-9" target="PVolOa2m4Xdv15_TMvfd-2">
           <mxGeometry relative="1" as="geometry">
@@ -2165,11 +2168,14 @@
             <mxPoint x="575" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-2" value="LLVM IR" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-2" value="LLVM IR" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="410" y="215" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-11" value="Classical polyhedral extraction" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-33" value="&lt;b&gt;golly : LLVM opt pass&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="550" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
