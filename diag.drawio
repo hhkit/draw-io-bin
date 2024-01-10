@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T23:38:02.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="AjGdkYV9nKhOKS0yBKAF" version="22.1.16" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-01-10T23:38:48.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="CcNMfEtpXCK8oJfOhsqO" version="22.1.16" type="github" pages="11">
   <diagram name="Page-1" id="dNXU90C2GVVFEEsE79y2">
     <mxGraphModel dx="1628" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -2087,7 +2087,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-1" value="CUDA file" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="170" y="215" width="90" height="30" as="geometry" />
+          <mxGeometry x="161.25" y="215" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-3" target="PVolOa2m4Xdv15_TMvfd-4">
           <mxGeometry relative="1" as="geometry" />
@@ -2134,18 +2134,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-9" value="clang CUDA frontend" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="290" y="200" width="90" height="60" as="geometry" />
+          <mxGeometry x="281.25" y="200" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-10" target="PVolOa2m4Xdv15_TMvfd-3">
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-10" target="PVolOa2m4Xdv15_TMvfd-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="280" />
               <mxPoint x="215" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PVolOa2m4Xdv15_TMvfd-10" value="Canonicalization passes" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="90" height="60" as="geometry" />
+        <mxCell id="PVolOa2m4Xdv15_TMvfd-10" value="Canonicalization passes (CSE, loop canon, function inline...)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="513.75" y="205" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-11" target="PVolOa2m4Xdv15_TMvfd-5">
           <mxGeometry relative="1" as="geometry" />
@@ -2164,12 +2163,12 @@
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PVolOa2m4Xdv15_TMvfd-9" target="PVolOa2m4Xdv15_TMvfd-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="230" as="sourcePoint" />
-            <mxPoint x="575" y="230" as="targetPoint" />
+            <mxPoint x="391.25" y="230" as="sourcePoint" />
+            <mxPoint x="566.25" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-2" value="LLVM IR" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="410" y="215" width="90" height="30" as="geometry" />
+          <mxGeometry x="401.25" y="215" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PVolOa2m4Xdv15_TMvfd-11" value="Classical polyhedral extraction" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
